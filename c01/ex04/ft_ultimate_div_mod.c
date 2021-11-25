@@ -9,7 +9,7 @@
 /*   Updated: 2021/11/18 11:28:09 by cpolat           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <unitd.h>
+#include <unistd.h>
 
 void	ft_ultimate_div_mod(int *a, int *b)
 {
